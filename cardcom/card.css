@@ -1,0 +1,31 @@
+.logg{
+    display:inline;
+}
+.hed{
+    text-align:center;
+    -webkit-background-clip:text;
+    text-shadow:3px 5px 3px #e0e677;
+    color:black;
+
+}
+#btn{
+    margin-left:25%;
+    
+    
+}
+.logs{
+    width:60px;
+    height:60px;
+}
+.btn2{
+    display: inline;
+}
+body{
+    background-image:url(car.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.imgs{
+    height:400px;
+    width:600px;
+}

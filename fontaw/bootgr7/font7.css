@@ -1,0 +1,23 @@
+.clr1{
+    color: #cced00 !important;
+}
+.clr2{
+    color:white !important;
+}
+.bgs{
+   
+    background-color:  #323f4b;
+}
+.texc{
+    color: #9aa5b1
+}
+.hhh{
+    height:100vh;;
+}
+body{
+    background-color: rgb(49, 44, 44)!important;
+}
+button{
+    -webkit-background-clip: text;
+    border:none;
+}

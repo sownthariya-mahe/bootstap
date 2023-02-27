@@ -1,0 +1,8 @@
+.card1{
+    position:absolute;
+    top:70%;
+}
+.card2{
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}

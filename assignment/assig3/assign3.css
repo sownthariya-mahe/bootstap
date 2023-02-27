@@ -1,0 +1,63 @@
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+/*.middiv{
+    padding:1rem;
+    height:20rem;
+    width:40rem;
+    margin-left: auto;
+    margin-right:auto;
+}
+ .carddiv{
+    padding:1rem !important;
+    margin:2rem;
+    width:180px;
+    height:280px;
+    border-radius:10px !important;
+    border:4px black;
+    text-align: center;
+    object-position:center;
+
+} 
+.mar{
+    margin-left:100px !important;
+    margin-right:100px !important;
+}
+.gcard{
+    width:800px;
+    height:500px;
+} 
+.pad{
+padding:10px;
+margin-left:2px !important;
+margin-right:2px !important;
+}
+/* .ali{
+    align-items: center !important;
+} */
+/*button{
+    margin-left: auto;
+    margin-right: auto;
+    padding-right:200px;
+    position: absolute;
+    right:50%;
+}
+.par{
+    position: absolute;
+    top:8%;
+    left:5%;
+    color:aliceblue;
+    font-size:40px;
+    font-family:Dancing Script;
+}
+body{
+    background-color: aquamarine !important;
+
+} */
+.tex{
+    color:white;
+    font-size:30px;
+    font-family:Dancing Script;
+}
+/* .imgg{
+    width:50%;
+    height:50%;
+} */
